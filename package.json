@@ -1,0 +1,54 @@
+{
+  "name": "ferd-eliza",
+  "version": "0.0.7",
+  "description": "The classic ELIZA program by Joseph Weizenbaum (1966), now in your Slack channel. JS library by Landsteiner (2005).",
+  "main": "eliza.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ferd",
+    "nlp",
+    "ai",
+    "chatterbot",
+    "psychotherapy"
+  ],
+  "author": {
+    "name": "David Rosson"
+  },
+  "license": "MIT",
+  "_id": "ferd-eliza@0.0.7",
+  "_shasum": "0fbba807da9c0e65ee25d4c226f4411e858c884d",
+  "_from": "ferd-eliza@latest",
+  "dependencies": {
+    "extend": "^3.0.0"
+  },
+  "gitHead": "2b82df2c52dbdd0b042fd02e7ac148efa99863b2",
+  "_npmVersion": "2.13.3",
+  "_nodeVersion": "0.12.6",
+  "_npmUser": {
+    "name": "gartenfeld",
+    "email": "DERosson@gmail.com"
+  },
+  "dist": {
+    "shasum": "0fbba807da9c0e65ee25d4c226f4411e858c884d",
+    "tarball": "http://registry.npmjs.org/ferd-eliza/-/ferd-eliza-0.0.7.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "andrewkishino",
+      "email": "AndrewKishino@gmail.com"
+    },
+    {
+      "name": "callmenick",
+      "email": "nick@callmenick.com"
+    },
+    {
+      "name": "gartenfeld",
+      "email": "david@rosson.com.au"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/ferd-eliza/-/ferd-eliza-0.0.7.tgz",
+  "readme": "ERROR: No README data found!"
+}
